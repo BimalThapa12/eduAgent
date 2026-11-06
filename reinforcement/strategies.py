@@ -1,6 +1,10 @@
 
 # EduAgent AI - Generation Strategies
 
+
+
+print("Hello world")
+
 GENERATION_STRATEGIES = {
 
     "S1": {
