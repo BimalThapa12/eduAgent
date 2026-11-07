@@ -3,8 +3,6 @@
 
 
 
-print("Hello world")
-
 GENERATION_STRATEGIES = {
 
     "S1": {

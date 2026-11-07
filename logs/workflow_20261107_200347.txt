@@ -1,0 +1,64 @@
+[INFO] =================================================================
+[INFO]             EDUAGENT AI - CONTENT GENERATION WORKFLOW            
+[INFO] =================================================================
+[INFO] Topic: Introduction to RAG
+[INFO] Student Level: 12th-grade graduate with limited English vocabulary
+[INFO] Selecting generation strategy...
+[SUCCESS] Generation strategy selected: S3
+[INFO] Analyzing RAG topic requirements...
+[SUCCESS] Topic analysis completed.
+[INFO] Essential learning concepts:
+[INFO] 1. Definition of Retrieval-Augmented Generation
+[INFO] 2. Retrieval and generation
+[INFO] 3. RAG workflow
+[INFO] 4. RAG compared with traditional LLM
+[INFO] 5. Benefits and limitations of RAG
+[INFO] =================================================================
+[INFO]                   LESSON GENERATION - ATTEMPT 1                  
+[INFO] =================================================================
+[SUCCESS] Lesson generated successfully.
+[INFO] Validating topic alignment...
+[SUCCESS] Topic validation passed. Coverage: 1.0
+[INFO] Evaluating lesson against R1-R8...
+[INFO] =================================================================
+[INFO]                     LESSON QUALITY EVALUATION                    
+[INFO] =================================================================
+[SUCCESS] R1 - Technical accuracy : PASS
+Evidence: The lesson defines RAG as Retrieval-Augmented Generation.
+[SUCCESS] R2 - Grounding in reference material : PASS
+Evidence: The lesson references the official RAG definition.
+[SUCCESS] R3 - Beginner friendliness : PASS
+Evidence: The lesson uses clear and simple language.
+[SUCCESS] R4 - Simple language : PASS
+Evidence: The lesson avoids complex vocabulary.
+[SUCCESS] R5 - Practical examples : PASS
+Evidence: The lesson provides a concrete example of RAG in action.
+[SUCCESS] R6 - Topic coverage : PASS
+Evidence: The lesson covers all key aspects of RAG.
+[SUCCESS] R7 - Teaching flow : PASS
+Evidence: The lesson follows a logical and easy-to-follow structure.
+[SUCCESS] R8 - Standalone quality : PASS
+Evidence: The lesson is self-contained and does not require external knowledge.
+[INFO] -----------------------------------------------------------------
+[INFO] OVERALL EVALUATION FEEDBACK
+[INFO] The generated lesson covers all key aspects of RAG and is well-structured.
+[SUCCESS] Lesson evaluation: APPROVED
+[SUCCESS] Lesson approved successfully.
+[SUCCESS] Approved lesson saved: /Users/bimalthapa/Downloads/git_clone/eduAgent/eduAgent/outputs/lessons/lesson_20261107_200459.md
+[SUCCESS] Evaluation JSON saved: /Users/bimalthapa/Downloads/git_clone/eduAgent/eduAgent/outputs/evaluation_logs/evaluation_20261107_200459.json
+[INFO] =================================================================
+[INFO]                      FINAL EXECUTION SUMMARY                     
+[INFO] =================================================================
+[INFO] Topic         : Introduction to RAG
+[INFO] Student Level : 12th-grade graduate with limited English vocabulary
+[INFO] Strategy      : S3
+[INFO] Attempts      : 1
+[INFO] Final Status  : APPROVED
+[INFO] Reward        : 1.0
+[INFO] 
+TOPIC VALIDATION
+[INFO] Status          : PASS
+[INFO] Concept Coverage: 1.0
+[INFO] =================================================================
+[SUCCESS] Workflow log saved at: /Users/bimalthapa/Downloads/git_clone/eduAgent/eduAgent/logs/workflow_20261107_200347.txt
+[SUCCESS] Readable workflow log saved: /Users/bimalthapa/Downloads/git_clone/eduAgent/eduAgent/logs/workflow_20261107_200347.txt
